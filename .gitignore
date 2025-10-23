@@ -1,0 +1,18 @@
+# BLOCK SEMUA FILE RAHASIA
+*.json
+*.pkl
+*_evidence/
+proof/
+breakthrough_evidence/
+*database*
+*candidates*
+*private*
+*breakthrough*
+*excellent*
+*chemical_database*
+*_analysis.json
+FINAL_*
+COMPREHENSIVE_*
+SIMPLE_*
+influenza_*2025*
+drug_*2025*
