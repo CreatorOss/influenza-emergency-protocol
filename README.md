@@ -1,5 +1,9 @@
 # 🦠 Influenza Emergency Response Protocol
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+# 🦠 Influenza Emergency Response Protocol
+
 ## 🚨 For Current Influenza Type A Outbreak
 
 ### 💊 Practical OTC Solution
